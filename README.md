@@ -16,7 +16,7 @@ I am a software engineer with a recognized bachelor's degree in Software Enginee
 
 My background combines modern full-stack engineering with deep hardware-level knowledge. I have led technical service teams, built repair and forensic utilities, worked with enterprise Java systems in the German public sector, and managed high-volume after-sales operations for international technology brands.
 
-- 💻 Building applications with **Java 21, Spring Boot, React, TypeScript, and PostgreSQL**
+- 💻 Building applications with **Java 21, Spring Boot, Python, C#, React, TypeScript, PostgreSQL, and MySQL**
 - 🔬 Specialized in **mobile forensics, device diagnostics, eMMC/UFS, JTAG, and board-level analysis**
 - 🧩 Experienced with **REST APIs, JPA/Hibernate, Liquibase, JUnit, Mockito, Git, and containers**
 - 🏛️ Practical enterprise experience with the **Lower Saxony tax administration**
@@ -29,8 +29,11 @@ My background combines modern full-stack engineering with deep hardware-level kn
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
 
 ### Frontend
