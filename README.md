@@ -17,7 +17,9 @@ I am a software engineer with a recognized bachelor's degree in Software Enginee
 My background combines modern full-stack engineering with deep hardware-level knowledge. I have led technical service teams, built repair and forensic utilities, worked with enterprise Java systems in the German public sector, and managed high-volume after-sales operations for international technology brands.
 
 - 💻 Building applications with **Java 21, Spring Boot, Python, C#, React, TypeScript, PostgreSQL, and MySQL**
-- 🔬 Specialized in **mobile forensics, device diagnostics, eMMC/UFS, JTAG, and board-level analysis**
+- 🔬 Specialized in **mobile forensics, board-level diagnostics, micro-soldering, BGA rework, eMMC/UFS/NAND, ISP/JTAG, and Chip-Off techniques**
+- ⚡ Experienced in **PCB design, prototyping and etching, schematic analysis, power-rail tracing, signal measurement, and component-level fault isolation**
+- 🤖 Building embedded solutions with **Arduino, STM32, ESP32, AVR, sensors, and industrial communication interfaces**
 - 🧩 Experienced with **REST APIs, JPA/Hibernate, Liquibase, JUnit, Mockito, Git, and containers**
 - 🏛️ Practical enterprise experience with the **Lower Saxony tax administration**
 - 🌍 Languages: **Arabic, English, and German (B2; working toward C1)**
@@ -52,9 +54,21 @@ My background combines modern full-stack engineering with deep hardware-level kn
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Embedded, Hardware & Forensics
+### Embedded Systems & Electronics
 
-`STM32` · `ESP32` · `AVR` · `I²C` · `SPI` · `UART` · `JTAG` · `eMMC/UFS` · `SMD/BGA` · `Android Forensics`
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+`AVR` · `Embedded C/C++` · `I²C` · `SPI` · `UART` · `GPIO` · `PWM` · `ADC` · `Sensors` · `SPS/SCADA`
+
+### PCB, Board-Level Repair & Diagnostics
+
+`PCB Design & Prototyping` · `PCB Etching & Fabrication` · `Schematic Reading` · `Boardview Analysis` · `Power-Rail Diagnostics` · `Signal Tracing` · `Short-Circuit Detection` · `Oscilloscope & Multimeter Analysis` · `SMD Rework` · `Micro-Soldering` · `BGA Reballing` · `CPU/UFS Rework` · `Component-Level Fault Isolation`
+
+### Mobile Forensics & Storage Technologies
+
+`Android Forensics` · `Logical & Physical Acquisition` · `Evidence Integrity` · `SHA-256 Verification` · `Chain of Custody` · `eMMC` · `UFS` · `NAND` · `ISP` · `JTAG` · `Chip-Off` · `EXT4/F2FS` · `File-Based Encryption` · `Bootloader & Kernel Analysis`
 
 ## Featured Projects
 
@@ -84,10 +98,14 @@ A mobile-device forensic and diagnostic utility focused on authorized Samsung de
 
 ## Professional Background
 
-- **Software Engineering:** Java/Spring Boot backend development, React/TypeScript interfaces, REST APIs, automated testing, relational databases, and containerized applications
-- **Enterprise IT:** Practical experience with German public-sector development processes, GitLab, Gradle, Linux, PostgreSQL, Podman, and documentation workflows
-- **Technical Leadership:** Former service and repair director/manager with responsibility for teams, KPIs, quality, turnaround time, and high-volume operations
-- **Hardware Expertise:** Board-level diagnostics, microelectronics, embedded systems, storage technologies, and mobile-device repair
+- **Software Engineering:** Java/Spring Boot backend development, Python and C# utilities, React/TypeScript interfaces, REST APIs, relational databases, automated testing, and containerized applications
+- **Enterprise IT:** Practical experience with German public-sector development processes and enterprise tools including GitLab, Gradle, Linux, PostgreSQL, Docker/Podman, Red Hat Quay, and technical documentation workflows
+- **Software Testing:** Experience with JUnit, Mockito, Vitest, React Testing Library, Selenium, Appium, Postman, Jenkins, JIRA, integration testing, and structured defect analysis
+- **Embedded Engineering:** Development and diagnostics with Arduino, STM32, ESP32 and AVR; practical use of I²C, SPI, UART, sensors, industrial control concepts, SPS and SCADA
+- **PCB & Microelectronics:** PCB prototyping and etching, schematic and boardview analysis, power and signal tracing, SMD/BGA rework, CPU/UFS reballing, and component-level diagnostics
+- **Mobile Storage & Forensics:** eMMC/UFS/NAND analysis, ISP/JTAG/Chip-Off acquisition, Android file-system analysis, bootloader/kernel research, evidence hashing, and forensic reporting
+- **Technical Leadership:** Former service and after-sales director/manager responsible for teams of 18+, service quality, KPIs, turnaround time, operational availability, and high-volume repair operations
+- **International Brand Experience:** Practical technical and management experience involving TECNO, Infinix, Hisense, OPPO, Huawei, ZTE, Apple, Samsung, and other mobile-device ecosystems
 
 ## Current Focus
 
