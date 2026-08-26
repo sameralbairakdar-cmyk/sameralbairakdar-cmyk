@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamad Samer Al Birkdar
+# Samer Al Birkdar
 
 ### Software Engineer · Java Full-Stack Developer · Data Recovery & Mobile Forensics Specialist
 
