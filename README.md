@@ -2,7 +2,9 @@
 
 # Mohamad Samer Al Birkdar
 
-### Software Engineer · Java Full-Stack Developer · Mobile Forensics & Embedded Systems Specialist
+### Software Engineer · Java Full-Stack Developer · Data Recovery & Mobile Forensics Specialist
+
+**Data Preservation · Board-Level Diagnostics · Embedded Systems · Secure Evidence Handling**
 
 Based in Hannover, Germany 🇩🇪
 
@@ -14,11 +16,13 @@ Based in Hannover, Germany 🇩🇪
 
 I am a software engineer with a recognized bachelor's degree in Software Engineering and extensive hands-on experience across software development, mobile-device diagnostics, embedded systems, technical service operations, and digital forensics.
 
-My background combines modern full-stack engineering with deep hardware-level knowledge. I have led technical service teams, built repair and forensic utilities, worked with enterprise Java systems in the German public sector, and managed high-volume after-sales operations for international technology brands.
+My background combines modern full-stack engineering with deep hardware-level knowledge. A central focus of my work is recovering, preserving, and protecting customer data during complex board-level repair and forensic acquisition. I have led technical service teams, built repair and forensic utilities, worked with enterprise Java systems in the German public sector, and managed high-volume after-sales operations for international technology brands.
 
 - 💻 Building applications with **Java 21, Spring Boot, Python, C#, React, TypeScript, PostgreSQL, and MySQL**
-- 🔬 Specialized in **mobile forensics, board-level diagnostics, micro-soldering, BGA rework, eMMC/UFS/NAND, ISP/JTAG, and Chip-Off techniques**
+- 💾 Specialized in **data recovery, data preservation, secure acquisition, storage diagnostics, and protection of customer data during board-level intervention**
+- 🔬 Experienced with **mobile forensics, eMMC/UFS/NAND, ISP/JTAG, Chip-Off, logical and physical acquisition, and structured forensic reporting**
 - ⚡ Experienced in **PCB design, prototyping and etching, schematic analysis, power-rail tracing, signal measurement, and component-level fault isolation**
+- 🧭 Tracing **data, clock, command, power, and communication paths** through schematics and boardviews to isolate faults without unnecessary risk to stored data
 - 🤖 Building embedded solutions with **Arduino, STM32, ESP32, AVR, sensors, and industrial communication interfaces**
 - 🧩 Experienced with **REST APIs, JPA/Hibernate, Liquibase, JUnit, Mockito, Git, and containers**
 - 🏛️ Practical enterprise experience with the **Lower Saxony tax administration**
@@ -70,6 +74,17 @@ My background combines modern full-stack engineering with deep hardware-level kn
 
 `Android Forensics` · `Logical & Physical Acquisition` · `Evidence Integrity` · `SHA-256 Verification` · `Chain of Custody` · `eMMC` · `UFS` · `NAND` · `ISP` · `JTAG` · `Chip-Off` · `EXT4/F2FS` · `File-Based Encryption` · `Bootloader & Kernel Analysis`
 
+### Data Recovery, Preservation & Protection
+
+- **Data-first diagnostics:** Prioritizing data safety before rework, component replacement, firmware operations, or invasive acquisition
+- **Storage assessment:** Diagnosing eMMC, UFS and NAND communication, power, clock, command and data-line faults
+- **Board-path tracing:** Following data buses and related power rails through schematics and boardviews to locate open lines, shorts, damaged filters, connectors, pads and components
+- **Safe rework strategy:** Protecting storage and processor integrity during CPU/UFS removal, reballing, transplant work and board-level repair
+- **Acquisition methods:** Selecting the least invasive authorized method—from logical extraction to ISP, JTAG or Chip-Off—according to device condition and recovery risk
+- **Data integrity:** Using write-conscious workflows, source preservation, SHA-256 verification, acquisition logs and structured chain-of-custody documentation
+- **Android storage analysis:** Working with EXT4, F2FS, file-based encryption, bootloader behavior and partition structures during recovery assessment
+- **Confidentiality:** Handling customer and evidentiary data with controlled access, minimal exposure and clear documentation throughout the recovery process
+
 ## Featured Projects
 
 ### [Job Notifier AI](https://github.com/sameralbairakdar-cmyk/job-notifier)
@@ -103,15 +118,16 @@ A mobile-device forensic and diagnostic utility focused on authorized Samsung de
 - **Software Testing:** Experience with JUnit, Mockito, Vitest, React Testing Library, Selenium, Appium, Postman, Jenkins, JIRA, integration testing, and structured defect analysis
 - **Embedded Engineering:** Development and diagnostics with Arduino, STM32, ESP32 and AVR; practical use of I²C, SPI, UART, sensors, industrial control concepts, SPS and SCADA
 - **PCB & Microelectronics:** PCB prototyping and etching, schematic and boardview analysis, power and signal tracing, SMD/BGA rework, CPU/UFS reballing, and component-level diagnostics
-- **Mobile Storage & Forensics:** eMMC/UFS/NAND analysis, ISP/JTAG/Chip-Off acquisition, Android file-system analysis, bootloader/kernel research, evidence hashing, and forensic reporting
+- **Data Recovery & Protection:** Data-first fault diagnosis, storage communication analysis, safe CPU/UFS intervention, recovery-path selection, source preservation, confidentiality, and integrity verification
+- **Mobile Storage & Forensics:** eMMC/UFS/NAND analysis, ISP/JTAG/Chip-Off acquisition, Android file-system analysis, bootloader/kernel research, evidence hashing, chain of custody, and forensic reporting
 - **Technical Leadership:** Former service and after-sales director/manager responsible for teams of 18+, service quality, KPIs, turnaround time, operational availability, and high-volume repair operations
 - **International Brand Experience:** Practical technical and management experience involving TECNO, Infinix, Hisense, OPPO, Huawei, ZTE, Apple, Samsung, and other mobile-device ecosystems
 
 ## Current Focus
 
 - Advancing enterprise Java and full-stack engineering skills
-- Developing secure, maintainable service and forensic applications
-- Expanding expertise in IT security and digital forensics
+- Developing secure, maintainable service, data-recovery, and forensic applications
+- Expanding expertise in data preservation, IT security, digital forensics, and secure evidence handling
 - Continuing German language development toward C1
 
 ## Responsible Use
